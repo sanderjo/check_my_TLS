@@ -1,0 +1,47 @@
+https://expired.badssl.com/ Not OK
+https://wrong.host.badssl.com/ Not OK
+https://self-signed.badssl.com/ Not OK
+https://untrusted-root.badssl.com/ Not OK
+https://revoked.badssl.com/ OK
+https://incomplete-chain.badssl.com/ Not OK
+https://sha256.badssl.com/ OK
+https://1000-sans.badssl.com/ OK
+https://10000-sans.badssl.com/ Not OK
+https://ecc256.badssl.com/ OK
+https://ecc384.badssl.com/ OK
+https://rsa8192.badssl.com/ OK
+https://mixed-script.badssl.com/ OK
+https://very.badssl.com/ OK
+https://mixed.badssl.com/ OK
+https://mixed-favicon.badssl.com/ OK
+https://cbc.badssl.com/ OK
+https://rc4-md5.badssl.com/ Not OK
+https://rc4.badssl.com/ Not OK
+https://3des.badssl.com/ Not OK
+https://null.badssl.com/ Not OK
+https://mozilla-old.badssl.com/ OK
+https://mozilla-intermediate.badssl.com/ OK
+https://mozilla-modern.badssl.com/ OK
+https://dh480.badssl.com/ Not OK
+https://dh512.badssl.com/ Not OK
+https://dh1024.badssl.com/ OK
+https://dh2048.badssl.com/ OK
+https://dh-small-subgroup.badssl.com/ OK
+https://dh-composite.badssl.com/ OK
+https://static-rsa.badssl.com/ OK
+https://hsts.badssl.com/ OK
+https://upgrade.badssl.com/ OK
+https://preloaded-hsts.badssl.com/ OK
+https://subdomain.preloaded-hsts.badssl.com/ Not OK
+https://https-everywhere.badssl.com/ OK
+https://spoofed-favicon.badssl.com/ OK
+https://pinning-test.badssl.com/ OK
+https://long-extended-subdomain-name-containing-many-letters-and-dashes.badssl.com/ OK
+https://longextendedsubdomainnamewithoutdashesinordertotestwordwrapping.badssl.com/ OK
+https://superfish.badssl.com/ Not OK
+https://edellroot.badssl.com/ Not OK
+https://dsdtestprovider.badssl.com/ Not OK
+https://sha1-2016.badssl.com/ Not OK
+https://sha1-2017.badssl.com/ Not OK
+https://testsafebrowsing.appspot.com/ OK
+https://github.com/chromium/badssl.com OK

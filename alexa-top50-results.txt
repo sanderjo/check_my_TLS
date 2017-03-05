@@ -1,0 +1,50 @@
+https://www.360.cn Not OK
+https://www.aliexpress.com OK
+https://www.amazon.com Not OK
+https://www.baidu.com OK
+https://www.bing.com OK
+https://www.blogspot.com OK
+https://www.detail.tmall.com Not OK
+https://www.ebay.com OK
+https://www.facebook.com OK
+https://www.google.ca OK
+https://www.google.co.in OK
+https://www.google.co.jp OK
+https://www.google.com OK
+https://www.google.com.br OK
+https://www.google.com.hk OK
+https://www.google.com.mx OK
+https://www.google.co.uk OK
+https://www.google.de OK
+https://www.google.es OK
+https://www.google.fr OK
+https://www.google.it OK
+https://www.google.ru OK
+https://www.hao123.com OK
+https://www.instagram.com OK
+https://www.jd.com OK
+https://www.linkedin.com OK
+https://www.live.com OK
+https://www.microsoft.com Not OK
+https://www.msn.com OK
+https://www.netflix.com OK
+https://www.ntd.tv Not OK
+https://www.ok.ru OK
+https://www.onclkds.com Not OK
+https://www.qq.com Not OK
+https://www.reddit.com OK
+https://www.sina.com.cn OK
+https://www.sohu.com OK
+https://www.taobao.com Not OK
+https://www.t.co Not OK
+https://www.tmall.com Not OK
+https://www.tumblr.com OK
+https://www.twitter.com OK
+https://www.vk.com OK
+https://www.weibo.com Not OK
+https://www.wikipedia.org OK
+https://www.wordpress.com OK
+https://www.yahoo.co.jp Not OK
+https://www.yahoo.com OK
+https://www.yandex.ru OK
+https://www.youtube.com OK
